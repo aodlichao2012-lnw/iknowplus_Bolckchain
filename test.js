@@ -1,1 +1,6 @@
-console.log('this is test');
+exports.mydatetime = function()
+{
+    return Date();
+};
+
+console.log('test2');
